@@ -10,7 +10,7 @@
 <p align="center">
   An end-to-end Machine Learning workflow built on the Algerian Forest Fire dataset.  
   This project demonstrates Exploratory Data Analysis, Feature Engineering, Regression Modeling,  
-  and deployment-ready model serialization using Python and Scikit-Learn.
+  and deployment-ready model serialization using Python, Scikit-Learn and streamlit.
 </p>
 
 ---
@@ -206,7 +206,6 @@ python application.py
 
 * Hyperparameter Optimization with GridSearchCV
 * Model Deployment via Flask API
-* Streamlit Dashboard Integration
 * Automated Training Pipeline
 
 ---
