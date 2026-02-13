@@ -213,9 +213,10 @@ python application.py
 
 ## 🧑‍💻 Author
 
-Vashishtha Verma
-Electrical Engineering Student
-Machine Learning & Full-Stack Development Enthusiast
+**Vashishtha Verma**
+
+- Electrical Engineering Student  
+- Machine Learning Enthusiast
 
 ---
 
