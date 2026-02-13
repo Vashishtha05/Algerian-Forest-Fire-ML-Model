@@ -8,8 +8,8 @@ application=Flask(__name__) ## creates an instance of flask which will be wsgi a
 app=application
 
 ## import ridge regessor and standard scalar pickle
-ridge_model=pickle.load(open('models/ridge.pkl','rb'))
-standard_scalar=pickle.load(open('models/scaler.pkl','rb'))
+ridge_model=pickle.load(open('C:\\CP\\ML\\25 ML Project\\models\\ridge.pkl','rb'))
+standard_scalar=pickle.load(open('C:\\CP\\ML\\25 ML Project\\models\\scaler.pkl','rb'))
 
 @app.route("/")
 def index():
